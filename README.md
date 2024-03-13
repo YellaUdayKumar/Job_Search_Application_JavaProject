@@ -1,4 +1,4 @@
-# About The Project
+# About Job Search Application Project
 The Job Search Application aims to provide a comprehensive platform for students 
 to search and apply for job opportunities, for administrators to manage the 
 admissions process efficiently, and for companies to connect with potential 
