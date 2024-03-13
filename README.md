@@ -4,7 +4,7 @@ to search and apply for job opportunities, for administrators to manage the
 admissions process efficiently, and for companies to connect with potential 
 candidates and streamline their hiring process.
 
-# Companies Section:
+#  heading 2 Companies Section:
   # Company Information : 
         In this option it will give company details, if the company details are not uploaded they cannot access to post the jobs.
   # Post a new Job : 
