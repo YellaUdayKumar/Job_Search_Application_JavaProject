@@ -23,22 +23,22 @@ candidates and streamline their hiring process.
   
   Add username and password to admin, update their details and delete the admin credentials.
   
-  # Student Details:
+   Student Details:
      In this option we have View All Students who applied the jobs, Search student details who applied to the jobs.
-  # Company Details: 
+  Company Details: 
      In this option we have View all Companies, Add company detail, Update Company detail, Search all available company details, view all posted jobs.
 
 # Student Section
 
-   # Personal Info : 
+   Personal Info : 
         In this option it will give student details.
-  # View Posted Jobs:
+   View Posted Jobs:
         In this option it will view all the jobs that was posted by the different companies.
-  # Apply for Job : 
+   Apply for Job : 
         In this option student can apply for the jobs as the skills requirement.
-  # View applied Job: 
+  View applied Job: 
         In this option the student can view the jobs he has applied.
-  # Update Student Details : 
+  Update Student Details : 
   In this option student can update education details, skills, E-Mail, Contact Number, Experience and Resume.
 
 
