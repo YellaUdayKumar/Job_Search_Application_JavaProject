@@ -1,19 +1,22 @@
-# About Job Search Application Project
+
+# Job Search Application
+
+##  Introduction about Job Search Application Project :
 The Job Search Application aims to provide a comprehensive platform for students 
 to search and apply for job opportunities, for administrators to manage the 
 admissions process efficiently, and for companies to connect with potential 
 candidates and streamline their hiring process.
 
 #  Companies Section:
-  Company Information : 
+  -Company Information : 
         In this option it will give company details, if the company details are not uploaded they cannot access to post the jobs.
-   Post a new Job : 
+  -Post a new Job : 
         In this option, the companies can post the new jobs.
-  View applied students for a Job: 
+  -View applied students for a Job: 
         In this option, the company can view the students who have applied for the jobs.
-  Update company details : 
+  -Update company details : 
         In this option it will update company address and E-Mail details.
-  Update posted job details :
+  -Update posted job details :
         In this option it will update Job Description, Location, Posted Date and Skills.
 
 
