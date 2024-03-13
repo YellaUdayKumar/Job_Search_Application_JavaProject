@@ -17,7 +17,7 @@ candidates and streamline their hiring process.
         In this option it will update Job Description, Location, Posted Date and Skills.
 
 
-# Admin Section
+# Admin Section :
 
   After a "ADMIN" successfully login, admin can enter their admin ID and they can access to a menu with the following options:
   
@@ -28,7 +28,7 @@ candidates and streamline their hiring process.
   Company Details: 
      In this option we have View all Companies, Add company detail, Update Company detail, Search all available company details, view all posted jobs.
 
-# Student Section
+# Student Section : 
 
    Personal Info : 
         In this option it will give student details.
