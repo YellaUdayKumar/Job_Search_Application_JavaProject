@@ -19,9 +19,9 @@ candidates and streamline their hiring process.
 
 # Admin Section
 
-  # After a "ADMIN" successfully login, admin can enter their admin ID and they can access to a menu with the following options:
+  After a "ADMIN" successfully login, admin can enter their admin ID and they can access to a menu with the following options:
   
-  # Add username and password to admin, update their details and delete the admin credentials.
+  Add username and password to admin, update their details and delete the admin credentials.
   
   # Student Details:
      In this option we have View All Students who applied the jobs, Search student details who applied to the jobs.
